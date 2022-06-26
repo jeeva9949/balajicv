@@ -1,0 +1,66 @@
+body{
+  text-align:center;
+  margin:0px;
+  background-color:#F2D7D9;
+}
+h1{
+  color:#4C4C6D;
+}
+h2{
+  font-family:"montserrat",sans-serif;
+}
+h3{
+  color:red;
+  font-family:"montserrat",sans-serif;
+}
+.top1-container{
+  background-color:#54BAB9;
+  padding-top:100px;
+  postion:relative;
+  pseudo-element:#99FFCD;
+}
+.PRO{text-decoration:underline;}
+
+.top-cloud{
+  position:absolute;
+  right:300px;
+  top:100px;
+}
+.bottom-cloud{
+  position:absolute;
+  left:300px;
+  bottom:200px;
+}
+.balaji{
+  background:pink;
+  padding: 12px;
+  border: 1px solid #999;
+}
+.h3{
+  text-align:none;
+  color:red;
+}
+hr{
+  border-color:white;
+  border-style:none;
+  height:0px;
+  width:30%;
+  border-width:5px;
+  border-top-style:dotted;
+}
+.skills{
+  left:700px;
+  position:absolute;
+}
+.ul{
+  text-align:center;
+  left:300px;
+}
+.color{
+  color:#2F8F9D;
+
+}
+.color1{
+  color:#2F8F9D;
+
+}
